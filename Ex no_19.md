@@ -1,3 +1,4 @@
+
 # EX 19 C program to perform basic left and right shift operations on a given integer and display the result.
 ## DATE:
 ## AIM:
